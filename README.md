@@ -77,6 +77,6 @@ This repository contains **three SQL case studies** that focus on **real-world d
 🔹 Integrate **Power BI/Tableau dashboards for visualization**  
 🔹 Expand case studies with **real-time datasets**  
 
----
+---xxxxx------------
 
  
